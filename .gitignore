@@ -1,0 +1,6 @@
+CMakeLists.txt
+do-build
+do-config
+error.log
+deploy/
+build/
